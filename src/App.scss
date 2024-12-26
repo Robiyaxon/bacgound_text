@@ -1,0 +1,133 @@
+// $primary-color: #3498db;
+
+// body {
+//   font-family: Arial, sans-serif;
+//   background-color: $primary-color;
+//   color: white;
+// }
+
+// .button {
+//   padding: 10px 20px;
+//   border: none;
+//   background-color: darken($primary-color, 10%);
+//   color: white;
+//   cursor: pointer;
+// }
+$textColor: blue;
+
+.wrapper{
+	background-color: red;
+	h1{
+		color: $textColor;
+	}
+}
+
+
+/* .wrapper {
+	margin-top: 4rem;
+}
+
+.wrapper h1 {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 2rem;
+
+}
+
+.wrapper button {
+	width: 70px;
+	height: 60px;
+	margin: 0 5px;
+	border: none;
+	font-size: 30px;
+	cursor: pointer;
+}
+
+.wrapper button:hover {
+	transform: scale(1.1);
+	background-color: grey;
+}
+
+.wrapper,
+.block,
+.choose {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.block {
+	width: 100%;
+
+}
+
+.choose p {
+	font-size: 60px;
+	margin-top: -0.5rem;
+	width: 100%;
+	text-align: center;
+}
+.choose h6{
+	font-size: 30px;
+	margin-top: -2rem;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .emoji-picker {
+	text-align: center;
+	margin-top: 50px;
+  }
+  
+  .emoji-buttons {
+	margin-top: 20px;
+  }
+  
+  .emoji-buttons button {
+	font-size: 30px;
+	padding: 10px;
+	margin: 5px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+	transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .emoji-buttons button:hover {
+	background-color: #e0e0e0;
+	transform: scale(1.1);
+  }
+  
+  .selected-emoji {
+	margin-top: 30px;
+  }
+  
+  .selected-emoji .emoji {
+	font-size: 50px;
+	margin: 10px 0;
+  }
+   */
+
+
+
+   
